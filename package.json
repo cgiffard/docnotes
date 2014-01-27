@@ -1,5 +1,5 @@
 {
-  "name": "DocNotes",
+  "name": "docnotes",
   "version": "0.0.1",
   "description": "Extract TODO and FIXME notices from JS codebases.",
   "main": "index.js",
